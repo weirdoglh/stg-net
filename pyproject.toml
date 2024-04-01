@@ -30,9 +30,9 @@ dependencies = [
 ]
 
 [project.urls]
-Documentation = "https://github.com/unknown/stg-net#readme"
-Issues = "https://github.com/unknown/stg-net/issues"
-Source = "https://github.com/unknown/stg-net"
+Documentation = "https://github.com/weirdoglh/stg-net#readme"
+Issues = "https://github.com/weirdoglh/stg-net/issues"
+Source = "https://github.com/weirdoglh/stg-net"
 
 [tool.hatch.version]
 path = "src/stg_net/__about__.py"
